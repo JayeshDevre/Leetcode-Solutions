@@ -1,23 +1,27 @@
 class Solution {
-    int happyN(int n){
-         int sum=0;
-         while(n!=0){
-            int lastnum=n%10;
-            sum=sum+lastnum*lastnum;
+    public boolean isHappy(int n) {
+        int fast=n;
+        int slow=n;
+
+        do{
+            slow=Happy(slow);
+            fast=Happy(Happy(fast));
+
+        }while(fast!=slow);
+
+        if(slow==1){
+            return true;
+        }
+        return false;
+    }
+
+    public int Happy(int n){
+        int ans=0;
+        while(n>0){
+            int rem=n%10;
+            ans+=rem*rem;
             n=n/10;
         }
-        return sum;
-    }
-    
-    public boolean isHappy(int n) {
-        int result=n;
-      while(result!=1 && result !=4){
-          result=happyN(result);
-      }
-        if(result==1){
-            return true;
-        }else{
-            return false;
-        }
+        return ans;
     }
 }
