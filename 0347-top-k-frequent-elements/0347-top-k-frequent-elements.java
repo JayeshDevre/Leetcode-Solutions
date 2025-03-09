@@ -1,24 +1,34 @@
 class Solution {
-  public int[] topKFrequent(int[] nums, int k) {
-    PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> b[1] - a[1]);
-    int[] res = new int[k];
-    int[] count = new int[20_000 + 1]; // due to the constraint -10^4 <= n <= 10^4
-    int min = 10_000; // use this to make the lowest number -10^4 to 0 so we can count the frequency of those negative number
-    for(int num : nums){
-      count[num + min]++;
-    }
+    public int[] topKFrequent(int[] nums, int k) {
+        List <Integer> [] bucket = new List[nums.length+1];
 
-    for(int i = 0; i < count.length;i++){
-      if(count[i] == 0){
-        continue;
-      }
+        HashMap <Integer, Integer> map=new HashMap<>();
+        for(int i=0;i<nums.length;i++){
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+        }
 
-      pq.offer(new int[]{i, count[i]});
+
+        for(int key: map.keySet()){
+            int frequency= map.get(key);
+            if(bucket[frequency]==null){
+                bucket[frequency]=new ArrayList<>();
+            }
+            bucket[frequency].add(key);
+        }
+
+        int [] result=new int[k];
+        int count=0;
+
+        for(int i=bucket.length-1;i>=0&& count<k;i--){
+
+            if(bucket[i]!=null){
+                for(int j: bucket[i]){
+                    result[count]=j;
+                    count++;
+                }
+            }
+        }
+        return result;
+
     }
-    int i = 0;
-    while(!pq.isEmpty() && i < k){
-      res[i++] = pq.poll()[0] - min;
-    }
-    return res;
-  }
 }
