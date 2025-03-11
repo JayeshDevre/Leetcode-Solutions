@@ -3,11 +3,9 @@ class Solution {
         HashMap<String , Integer> map= new HashMap<>();
 
         for(String s: arr){
-            if(map.containsKey(s)){
-                map.put(s,map.get(s)+1);
-            }else{
-                map.put(s,1);
-            }
+            
+               map.put(s, map.getOrDefault(s, 0) + 1);
+            
         }
 
         ArrayList<String> list= new ArrayList<>();
