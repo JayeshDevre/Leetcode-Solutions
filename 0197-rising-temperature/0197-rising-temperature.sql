@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+# Write your MySQL query statement below
 SELECT current_day.id
 FROM Weather AS current_day
 WHERE EXISTS (
