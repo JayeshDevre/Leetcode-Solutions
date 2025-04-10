@@ -1,7 +1,7 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
         int i=0;
-        while(i<nums.length-1){
+        while(i<nums.length){
             int correctIndex=nums[i]-1;
             if(nums[i]>0 && nums[i]<=nums.length && nums[i]!=nums[correctIndex]){
                 swap(nums,i,correctIndex);
