@@ -11,19 +11,16 @@
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode result=new ListNode();
-
-        ListNode temp=result;
+        ListNode tail=result;
 
         int carry=0;
 
         while(l1!=null || l2!=null){
             int sum=0+carry;
-
             if(l1!=null){
                 sum=sum+l1.val;
                 l1=l1.next;
             }
-
             if(l2!=null){
                 sum=sum+l2.val;
                 l2=l2.next;
@@ -31,14 +28,14 @@ class Solution {
 
             carry= sum/10;
             sum=sum%10;
-            temp.next=new ListNode(sum);
-            temp=temp.next;
+            tail.next=new ListNode(sum);
+            tail=tail.next;
         }
+
         if(carry==1){
-            temp.next=new ListNode(1);
+            tail.next=new ListNode(1);
         }
 
         return result.next;
-        
     }
 }
