@@ -10,43 +10,37 @@
  * }
  */
 public class Solution {
-    // For this problem I first need to find length of the cycle then assign one second pointer at length then move first and second pointer by one when both are equal we find our answer
     public ListNode detectCycle(ListNode head) {
+        if (head == null || head.next == null) {
+            return null; // No cycle possible
+        }
 
-        ListNode fast=head;
-        ListNode slow=head;
-        int length=0;
-        while(fast!=null && fast.next!=null){
-            fast=fast.next.next;
-            slow=slow.next;
+        ListNode slow = head;
+        ListNode fast = head;
 
-            if(fast==slow){
-                ListNode temp=slow;
-// Finding length of the cycle
-                do{
-                    temp=temp.next;
-                    length++;
-                }while(temp!=slow);
-                break;
+        // Step 1: Detect if a cycle exists
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+
+            // Cycle detected
+            if (slow == fast) {
+                // Step 2: Reset one pointer to head
+                ListNode ptr1 = head;
+                ListNode ptr2 = slow;
+
+                // Step 3: Move both one step at a time
+                while (ptr1 != ptr2) {
+                    ptr1 = ptr1.next;
+                    ptr2 = ptr2.next;
+                }
+
+                // Step 4: Meeting point = cycle start
+                return ptr1;
             }
         }
 
-        ListNode f=head;
-        ListNode s=head;
-        if(length==0){
-            return null;
-        }
-
-        while(length!=0){
-            s=s.next;
-            length--;
-        }
-
-        while(f!=s){
-            f=f.next;
-            s=s.next;
-        }
-
-        return s;  
+        // No cycle
+        return null;
     }
 }
