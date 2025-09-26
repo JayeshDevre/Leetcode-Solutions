@@ -3,38 +3,33 @@ class MyQueue {
     private final Stack<Integer> second;
 
     public MyQueue() {
-        first= new Stack<>();
-        second= new Stack<>();
+        first = new Stack<>();
+        second = new Stack<>();
     }
     
+    // Push to input stack
     public void push(int x) {
         first.push(x);
     }
     
+    // Pop from output stack
     public int pop() {
-        peek();
+        peek(); // ensure output stack has the right order
         return second.pop();
     }
     
+    // Peek at the front of queue
     public int peek() {
-        if(second.empty()){
-            while(!first.empty()){
+        if (second.isEmpty()) {             // ✅ FIX: transfer only if second is empty
+            while (!first.isEmpty()) {
                 second.push(first.pop());
             }
         }
         return second.peek();
     }
     
+    // Check if queue is empty
     public boolean empty() {
-        return first.empty() && second.empty();
+        return first.isEmpty() && second.isEmpty();
     }
 }
-
-/**
- * Your MyQueue object will be instantiated and called as such:
- * MyQueue obj = new MyQueue();
- * obj.push(x);
- * int param_2 = obj.pop();
- * int param_3 = obj.peek();
- * boolean param_4 = obj.empty();
- */
