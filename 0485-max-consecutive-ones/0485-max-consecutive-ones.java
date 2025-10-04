@@ -4,10 +4,9 @@ class Solution {
         int count=0;
 
         for(int i:nums){
-            if(i==1){
-                count++;
-                max=Math.max(max,count);
-            }else{
+            count=count+i;
+            max=Math.max(count,max);
+            if(i==0){
                 count=0;
             }
         }
