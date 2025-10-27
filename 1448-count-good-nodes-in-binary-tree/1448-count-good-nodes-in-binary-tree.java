@@ -18,21 +18,20 @@ class Solution {
         return helper(root,0,Integer.MIN_VALUE);
     }
 
-    private int helper(TreeNode root, int ans, int currentMax){
+    private int helper(TreeNode root, int sum, int maxVal){
         if(root==null){
             return 0;
         }
-        int currentAns=0;
 
-        if(root.val>=currentMax){
-            currentAns=1;
-            currentMax=root.val;
+        int currentVal=0;
+        if(root.val>=maxVal){
+            maxVal=root.val;
+            currentVal=1;
         }
 
-        int lans=helper(root.left,ans,currentMax);
-        int rans=helper(root.right,ans,currentMax);
+        int lval=helper(root.left,sum,maxVal);
+        int rval=helper(root.right,sum,maxVal);
 
-        return currentAns+lans+rans;
-
+        return currentVal+lval+rval;
     }
 }
