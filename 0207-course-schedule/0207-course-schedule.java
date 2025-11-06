@@ -28,7 +28,7 @@ class Solution {
             inDegree[next]--;
 
             if(inDegree[next]==0){
-                queue.offer(inDegree[next]);
+                queue.offer(next);
             }
           }  
         }
