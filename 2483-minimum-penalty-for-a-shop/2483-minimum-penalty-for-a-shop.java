@@ -1,11 +1,10 @@
 class Solution {
     public int bestClosingTime(String customers) {
+        int bestTime=0;
         int penalty=0;
         int minPenalty=0;
-        int hour=0;
-
-        for(Character c:customers.toCharArray()){
-            if(c=='Y'){
+        for(int i=0;i<customers.length();i++){
+            if(customers.charAt(i)=='Y'){
                 penalty++;
             }
         }
@@ -17,12 +16,13 @@ class Solution {
             }else{
                 penalty++;
             }
-
-            if(minPenalty>penalty){
+            if(penalty<minPenalty){
                 minPenalty=penalty;
-                hour=i+1;
+                bestTime=i+1;
             }
         }
-        return hour;
+        return bestTime;
+
+        
     }
 }
