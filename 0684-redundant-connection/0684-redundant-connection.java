@@ -1,33 +1,25 @@
 class Solution {
     public int[] findRedundantConnection(int[][] edges) {
-       if(edges.length==0){
-        return new int[]{};
-       } 
-// we are using disjoint set(union find here) 
-       int [] parent=new int[edges.length+1];
-       for(int i=1;i<=edges.length;i++){
-        parent[i]=i;
-       }
-
-       for(int[] edge: edges){
-        int node1=edge[0];
-        int node2=edge[1];
-
-        int root1=find(parent,node1);
-        int root2=find(parent,node2);
-
-        if(root1==root2){
-            return edge;
+        int[] parent= new int[edges.length+1];
+        for(int i=1;i<=edges.length;i++){
+            parent[i]=i;
         }
 
-        parent[root2]=root1;
+        for(int [] edge: edges){
+            int rootA=find(parent,edge[0]);
+            int rootB=find(parent,edge[1]);
 
-       }
-       return new int[]{};
+            if(rootA==rootB){
+                return edge;
+            }
+
+            parent[rootB]=rootA;
+        }
+        return null;
     }
 
-    public int find(int[] parent,int node){
-        while(parent[node]!=node){
+    public int find(int[] parent, int node){
+        while(node!=parent[node]){
             parent[node]=parent[parent[node]];
             node=parent[node];
         }
