@@ -1,39 +1,42 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         List<List<Integer>> graph= new ArrayList<>();
-        int [] inComingFreq= new int[numCourses];
-        for (int i = 0; i < numCourses; i++) graph.add(new ArrayList<>());
+        int [] inDegree= new int[numCourses];
 
-// 0->1
-// 1->
+        for(int i=0;i<numCourses;i++){
+            graph.add(new ArrayList<>());
+        }
+
         for(int [] pre: prerequisites){
             graph.get(pre[1]).add(pre[0]);
-            inComingFreq[pre[0]]++;
+            inDegree[pre[0]]++;
         }
-        // 0 1 at first inComingFreq[0 0]
-        //inComingFreq = [0 1]
 
-        Queue<Integer> queue=new LinkedList<>();
-        // add all 0 incoming in queue
-        for(int i=0;i<numCourses;i++){
-            if(inComingFreq[i]==0){
+        Queue<Integer> queue= new LinkedList<>();
+        for(int i=0;i<inDegree.length;i++){
+            if(inDegree[i]==0){
                 queue.offer(i);
             }
         }
+
         int count=0;
+
         while(!queue.isEmpty()){
-            int next=queue.poll();
+            int top = queue.peek();
             count++;
-            for(int freq:graph.get(next)){
-                inComingFreq[freq]--;
-                if(inComingFreq[freq]==0){
+            queue.poll();
+            for(int freq: graph.get(top)){
+                inDegree[freq]--;
+                if(inDegree[freq]==0){
                     queue.offer(freq);
                 }
             }
-
         }
-        return count==numCourses;
 
+        if(count==numCourses){
+            return true;
+        }
+
+        return false;
     }
-
 }
