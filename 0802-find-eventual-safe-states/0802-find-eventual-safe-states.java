@@ -1,41 +1,45 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        List<Integer> result= new ArrayList<>();
-        int n= graph.length;
+        List<List<Integer>> adj= new ArrayList<>();
 
-        int [] visited= new int[n];
-        int [] pathVisited= new int[n];
-        int [] check= new int [n];
+        int indegree[] = new int[graph.length];
+        for(int i=0;i<graph.length;i++){
+            adj.add(new ArrayList<>());
+        }
 
-        for(int i=0;i<n;i++){
-            if(visited[i]==0){
-                dfs(i, graph, visited, pathVisited, check);
+        for(int i=0;i<graph.length;i++){
+            for(int j: graph[i]){
+                adj.get(j).add(i);
+                indegree[i]++;
             }
         }
 
-        for(int i=0;i<n;i++){
-            if(check[i]==1){
-                result.add(i);
+        Queue<Integer> queue= new LinkedList<>();
+        for(int i=0;i<graph.length;i++){
+            if(indegree[i]==0){
+                queue.offer(i);
             }
         }
-        return result;
-    }
 
-    public boolean dfs(int node, int [][] graph, int [] visited, int[] pathVisited, int[] check){
-        visited[node]=1;
-        pathVisited[node]=1;
+        boolean [] safe= new boolean[graph.length];
+        while(!queue.isEmpty()){
+            int node=queue.poll();
+            safe[node]=true;
 
-        for(int nei: graph[node]){
-            if(visited[nei]==0){
-                if(dfs(nei, graph,visited,pathVisited,check)){
-                    return true;
+            for(int nei: adj.get(node)){
+                indegree[nei]--;
+                if(indegree[nei]==0){
+                    queue.offer(nei);
                 }
-            }else if(pathVisited[nei]==1){
-                return true;
             }
         }
-        check[node]=1;
-        pathVisited[node]=0;
-        return false;
+
+        List<Integer> list= new ArrayList<>();
+        for(int i=0;i<graph.length;i++){
+            if(safe[i]){
+                list.add(i);
+            }
+        }
+        return list;
     }
 }
