@@ -1,10 +1,10 @@
 class Pair{
-    String first;
-    int second;
-    
-    Pair(String first, int second){
-        this.first=first;
-        this.second=second;
+    String word;
+    int count;
+
+    Pair(String word, int count){
+        this.word=word;
+        this.count=count;
     }
 }
 class Solution {
@@ -14,23 +14,23 @@ class Solution {
         for(int i=0;i<wordList.size();i++){
             set.add(wordList.get(i));
         }
-        queue.add(new Pair(beginWord,1));
         set.remove(beginWord);
+        queue.add(new Pair(beginWord,1));
         while(!queue.isEmpty()){
-            String word=queue.peek().first;
-            int len=queue.peek().second;
+            String word=queue.peek().word;
+            int count=queue.peek().count;
             queue.poll();
             if(word.equals(endWord)){
-                return len;
+                return count;
             }
             for(int i=0;i<word.length();i++){
-                char [] arr= word.toCharArray();
+                char[] s= word.toCharArray();
                 for(char ch='a';ch<='z';ch++){
-                    arr[i]=ch;
-                    String s= new String(arr);
-                    if(set.contains(s)){
-                        queue.add(new Pair(s,len+1));
-                        set.remove(s);
+                    s[i]=ch;
+                    String newWord=new String(s);
+                    if(set.contains(newWord)){
+                        queue.add(new Pair(newWord,count+1));
+                        set.remove(newWord);
                     }
                 }
             }
