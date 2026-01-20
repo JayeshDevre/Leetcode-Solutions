@@ -18,9 +18,11 @@ class Solution {
         if(head==null){
             return null;
         }
-
+        
         Node curr=head;
         while(curr!=null){
+            // a-b-c
+            // a-a'-b-b'-c-c'
             Node newNode=new Node(curr.val);
             newNode.next=curr.next;
             curr.next=newNode;
@@ -49,5 +51,7 @@ class Solution {
             }
         }
         return newHead;
+
+
     }
 }
