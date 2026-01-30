@@ -7,12 +7,11 @@ class Solution {
     }
 
     private void backTrack(List<List<Integer>> result, List<Integer> temp, int[] nums, int start){
-        if(result.contains(temp)){
-            return;
-        }
-
         result.add(new ArrayList<>(temp));
         for(int i=start;i<nums.length;i++){
+            if(i>start && nums[i]==nums[i-1]){
+                continue;
+            }
             temp.add(nums[i]);
             backTrack(result, temp, nums,i+1);
             temp.remove(temp.size()-1);
