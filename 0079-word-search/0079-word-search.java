@@ -19,16 +19,16 @@ class Solution {
     }
 
     private boolean find(int count, int i, int j, char[][] board, String word){
-        if(count==word.length()){
-            return true;
-        }
-
         if(i<0 || j<0 || i>=m || j>=n || board[i][j]=='#'){
             return false;
         }
 
         if(board[i][j]!=word.charAt(count)){
             return false;
+        }
+
+        if(count==word.length()-1){
+            return true;
         }
 
         char temp=board[i][j];
