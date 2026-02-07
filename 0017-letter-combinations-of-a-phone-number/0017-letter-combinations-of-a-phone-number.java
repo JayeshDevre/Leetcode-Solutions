@@ -1,29 +1,28 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
         List<String> result= new ArrayList<>();
-        HashMap<Character, String> map= new HashMap<>();
-        map.put('2',"abc");
-        map.put('3',"def");
-        map.put('4',"ghi");
-        map.put('5',"jkl");
-        map.put('6',"mno");
-        map.put('7',"pqrs");
-        map.put('8',"tuv");
-        map.put('9',"wxyz");
+        if(digits.length()==0){
+            return result;
+        }
 
-        combinations(0, digits, result, "", map);
+        String[] letters={"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        backTrack(0, digits, result, new StringBuilder(), letters);
         return result;
     }
 
-    private void combinations(int index, String digits, List<String> result, String temp, HashMap<Character, String> map){
+    private void backTrack(int index, String digits, List<String> result, StringBuilder sb, String[] letters){
         if(index==digits.length()){
-            result.add(temp);
+            result.add(sb.toString());
             return;
         }
 
-        String s=map.get(digits.charAt(index));
+        int digit=digits.charAt(index)-'0';
+        String s=letters[digit];
+
         for(int i=0;i<s.length();i++){
-            combinations(index+1, digits, result, temp+s.charAt(i), map);
+            sb.append(s.charAt(i));
+            backTrack(index+1,digits, result, sb, letters);
+            sb.deleteCharAt(sb.length()-1);
         }
     }
 }
