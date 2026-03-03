@@ -1,77 +1,72 @@
 class LRUCache {
-    class node{
-        int key;
-        int value;
-        node next;
-        node prev;
 
-        node(int key,int value){
+    private static class Node {
+        int key;
+        int val;
+        Node prev;
+        Node next;
+
+        public Node(int key, int val){
             this.key=key;
-            this.value=value;
+            this.val=val;
         }
     }
- HashMap<Integer, node> map= new HashMap<>();
-    node head=new node(-1,-1);
-        node tail=new node(-1,-1);
-        int cap;
 
-    LRUCache(int capacity){
-            cap=capacity;
-            head.next=tail;
-            tail.prev=head;
-    }
+    private final int capacity;
+    private final HashMap<Integer, Node> map;
+    private Node head;
+    private Node tail;
 
-   
-
-   void addNode(node newNode){
-        node temp=head.next;
-        head.next=newNode;
-        newNode.next=temp;
-        temp.prev=newNode;
-        newNode.prev=head;
-    }
-
- void deleteNode(node deleteNode){
-        node prevv=deleteNode.prev;
-        node nextt=deleteNode.next;
-
-        prevv.next=nextt;
-        nextt.prev=prevv;
-        
-
+    public LRUCache(int capacity) {
+        this.capacity=capacity;
+        map=new HashMap<>();
+        head=new Node(0,0);
+        tail=new Node(0,0);
+        head.next=tail;
+        tail.prev=head;
     }
     
     public int get(int key) {
-        if(map.containsKey(key)){
-             node result=map.get(key);
-             int value=result.value;
-             map.remove(key);
-             deleteNode(result);
-             addNode(result);
-             map.put(key,head.next);
-
-             return value;
+        if(!map.containsKey(key)){
+            return -1;
         }
-
-        return -1;
-        
+        Node node=map.get(key);
+        remove(node);
+        insertNode(node);
+        return node.val;
     }
     
     public void put(int key, int value) {
         if(map.containsKey(key)){
-            node curr=map.get(key);
-            map.remove(key);
-            deleteNode(curr);
-        }
-        if(map.size()==cap){
-            map.remove(tail.prev.key);
-            deleteNode(tail.prev);
-        }
+            Node node=map.get(key);
+            node.val=value;
+            remove(node);
+            insertNode(node);
+        }else{
+            if(map.size()==capacity){
+                map.remove(tail.prev.key);
+                remove(tail.prev);
+            }
 
-        addNode(new node(key,value));
-        map.put(key,head.next);
-        
+            Node newNode=new Node(key,value);
+            map.put(key,newNode);
+            insertNode(newNode);
+        }
     }
+
+    private void remove(Node node){
+        node.prev.next=node.next;
+        node.next.prev=node.prev;
+    }
+
+    private void insertNode(Node node){
+        node.next=head.next;
+        node.next.prev=node;
+        head.next=node;
+        node.prev=head;
+    }
+
+
 }
 
 /**
