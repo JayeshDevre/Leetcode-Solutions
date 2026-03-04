@@ -11,6 +11,7 @@ Daily leetcode solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Hash Table
@@ -41,4 +42,12 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
