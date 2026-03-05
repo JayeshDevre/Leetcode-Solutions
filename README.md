@@ -18,6 +18,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,32 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
