@@ -6,6 +6,7 @@ Daily leetcode solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [1092-shortest-common-supersequence](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -13,6 +14,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0072-edit-distance](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [1092-shortest-common-supersequence](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
