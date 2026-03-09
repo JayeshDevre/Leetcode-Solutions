@@ -31,6 +31,7 @@ Daily leetcode solutions
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ Daily leetcode solutions
 | [0494-target-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -93,6 +95,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
