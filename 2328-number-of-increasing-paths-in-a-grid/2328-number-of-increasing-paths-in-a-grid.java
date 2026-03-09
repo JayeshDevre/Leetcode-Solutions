@@ -27,7 +27,7 @@ class Solution {
         for(int [] d: directions){
             int i_=i+d[0];
             int j_=j+d[1];
-            if(i_>=0 && j_>=0 && i_<grid.length && j_<grid[0].length && grid[i_][j_]>grid[i][j]){
+            if(i_>=0 && j_>=0 && i_<grid.length && j_<grid[0].length && grid[i_][j_]<grid[i][j]){
                 result=(result+solve(i_,j_,grid,dp))%mod;
             }
         }
