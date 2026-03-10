@@ -7,6 +7,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
@@ -17,6 +18,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
@@ -125,6 +127,7 @@ Daily leetcode solutions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
