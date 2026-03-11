@@ -92,6 +92,7 @@ Daily leetcode solutions
 | [0494-target-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0860-lemonade-change](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Divide and Conquer
@@ -127,6 +128,7 @@ Daily leetcode solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0860-lemonade-change](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
