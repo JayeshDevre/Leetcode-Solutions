@@ -20,6 +20,7 @@ Daily leetcode solutions
 | [0005-longest-palindromic-substring](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
@@ -81,6 +82,7 @@ Daily leetcode solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -127,6 +129,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
