@@ -6,8 +6,7 @@ class Solution {
             if(maxIndex<i){
                 return false;
             }
-
-            maxIndex=Math.max(maxIndex, nums[i]+i);
+            maxIndex= Math.max(maxIndex, i+nums[i]);
         }
         return true;
     }
