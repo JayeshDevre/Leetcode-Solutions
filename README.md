@@ -46,6 +46,7 @@ Daily leetcode solutions
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ Daily leetcode solutions
 | [0494-target-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
@@ -112,6 +114,7 @@ Daily leetcode solutions
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -139,6 +142,7 @@ Daily leetcode solutions
 | [0134-gas-station](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
