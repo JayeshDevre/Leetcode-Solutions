@@ -103,6 +103,7 @@ Daily leetcode solutions
 | [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -144,6 +145,7 @@ Daily leetcode solutions
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
