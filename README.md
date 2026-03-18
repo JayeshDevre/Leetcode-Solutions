@@ -36,6 +36,7 @@ Daily leetcode solutions
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -101,6 +102,7 @@ Daily leetcode solutions
 | [0312-burst-balloons](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -119,6 +121,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -146,6 +149,7 @@ Daily leetcode solutions
 | [0055-jump-game](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
