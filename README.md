@@ -110,6 +110,7 @@ Daily leetcode solutions
 | [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1851-minimum-interval-to-include-each-query](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Divide and Conquer
@@ -125,10 +126,12 @@ Daily leetcode solutions
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1851-minimum-interval-to-include-each-query](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1851-minimum-interval-to-include-each-query](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +204,12 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 <!---LeetCode Topics End-->
