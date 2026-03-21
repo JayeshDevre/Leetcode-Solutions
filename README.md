@@ -81,6 +81,7 @@ Daily leetcode solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
@@ -192,6 +194,7 @@ Daily leetcode solutions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Two Pointers
