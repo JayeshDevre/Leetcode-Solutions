@@ -48,6 +48,7 @@ Daily leetcode solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0146-lru-cache](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0763-partition-labels](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
@@ -96,6 +97,7 @@ Daily leetcode solutions
 | [0054-spiral-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -197,6 +199,7 @@ Daily leetcode solutions
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Two Pointers
