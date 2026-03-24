@@ -27,6 +27,7 @@ Daily leetcode solutions
 | [0053-maximum-subarray](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -98,6 +99,7 @@ Daily leetcode solutions
 | [0054-spiral-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
+| [0064-minimum-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -200,6 +202,7 @@ Daily leetcode solutions
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0064-minimum-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
