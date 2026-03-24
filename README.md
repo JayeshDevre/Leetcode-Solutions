@@ -115,6 +115,7 @@ Daily leetcode solutions
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
@@ -218,6 +219,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -236,4 +238,5 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
