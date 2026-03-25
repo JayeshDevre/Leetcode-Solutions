@@ -27,7 +27,9 @@ class Solution {
 
             for(int neigh: graph.get(node)){
                 inDegree[neigh]--;
-                queue.offer(neigh);
+                if(inDegree[neigh]==0){
+                    queue.offer(neigh);
+                }
             }
         }
 
