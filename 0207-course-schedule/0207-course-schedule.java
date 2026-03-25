@@ -1,6 +1,6 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> graph= new ArrayList<>();
+        List<List<Integer>> graph = new ArrayList<>();
         int [] inDegree= new int[numCourses];
 
         for(int i=0;i<numCourses;i++){
@@ -22,21 +22,18 @@ class Solution {
         int count=0;
 
         while(!queue.isEmpty()){
-            int top = queue.peek();
+            int node=queue.poll();
             count++;
-            queue.poll();
-            for(int freq: graph.get(top)){
-                inDegree[freq]--;
-                if(inDegree[freq]==0){
-                    queue.offer(freq);
-                }
+
+            for(int neigh: graph.get(node)){
+                inDegree[neigh]--;
+                queue.offer(neigh);
             }
         }
 
         if(count==numCourses){
             return true;
         }
-
         return false;
     }
 }
