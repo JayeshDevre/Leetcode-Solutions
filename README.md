@@ -127,6 +127,7 @@ Daily leetcode solutions
 | [0503-next-greater-element-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0739-daily-temperatures](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -240,6 +241,7 @@ Daily leetcode solutions
 | [0496-next-greater-element-i](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,4 +260,5 @@ Daily leetcode solutions
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
