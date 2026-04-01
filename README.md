@@ -60,6 +60,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@ Daily leetcode solutions
 | [0005-longest-palindromic-substring](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0763-partition-labels](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
