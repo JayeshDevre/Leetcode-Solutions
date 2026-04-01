@@ -17,8 +17,6 @@ class Solution {
 
             stack.push(i);
         }
-
         return result;
-
     }
 }
