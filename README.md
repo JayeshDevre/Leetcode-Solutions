@@ -22,6 +22,7 @@ Daily leetcode solutions
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0042-trapping-rain-water](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -108,6 +109,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -239,6 +241,7 @@ Daily leetcode solutions
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -247,6 +250,7 @@ Daily leetcode solutions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -269,6 +273,7 @@ Daily leetcode solutions
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
