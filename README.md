@@ -107,6 +107,7 @@ Daily leetcode solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -173,6 +174,7 @@ Daily leetcode solutions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
@@ -236,6 +238,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0141-linked-list-cycle](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
