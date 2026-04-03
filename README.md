@@ -48,6 +48,7 @@ Daily leetcode solutions
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ Daily leetcode solutions
 | [1851-minimum-interval-to-include-each-query](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@ Daily leetcode solutions
 | [0073-set-matrix-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
