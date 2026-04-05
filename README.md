@@ -142,6 +142,7 @@ Daily leetcode solutions
 | [0739-daily-temperatures](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
@@ -290,4 +291,12 @@ Daily leetcode solutions
 | [0496-next-greater-element-i](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
