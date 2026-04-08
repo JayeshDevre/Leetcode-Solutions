@@ -145,6 +145,7 @@ Daily leetcode solutions
 | [0739-daily-temperatures](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
@@ -277,6 +278,7 @@ Daily leetcode solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 ## Sweep Line
 | Problem Name | Difficulty |
@@ -298,9 +300,11 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
