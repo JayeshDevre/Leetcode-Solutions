@@ -11,6 +11,7 @@ Daily leetcode solutions
 | [0010-regular-expression-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0097-interleaving-string](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
@@ -58,6 +59,7 @@ Daily leetcode solutions
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
@@ -311,6 +313,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
