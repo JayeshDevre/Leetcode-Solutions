@@ -142,6 +142,7 @@ Daily leetcode solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0283-move-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -278,6 +279,7 @@ Daily leetcode solutions
 | [0042-trapping-rain-water](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0763-partition-labels](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
