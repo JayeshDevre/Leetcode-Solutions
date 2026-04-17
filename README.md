@@ -91,12 +91,14 @@ Daily leetcode solutions
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0207-course-schedule](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -106,6 +108,7 @@ Daily leetcode solutions
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Math
@@ -229,6 +232,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0112-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0207-course-schedule](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
