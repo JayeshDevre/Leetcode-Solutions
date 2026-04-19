@@ -169,6 +169,7 @@ Daily leetcode solutions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2087-minimum-cost-homecoming-of-a-robot-in-a-grid/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
@@ -294,6 +295,7 @@ Daily leetcode solutions
 | [0455-assign-cookies](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0763-partition-labels](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +312,7 @@ Daily leetcode solutions
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
