@@ -69,6 +69,7 @@ Daily leetcode solutions
 | [0496-next-greater-element-i](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0763-partition-labels](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@ Daily leetcode solutions
 | [0112-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ Daily leetcode solutions
 | [0207-course-schedule](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -120,6 +123,7 @@ Daily leetcode solutions
 | [0112-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +258,7 @@ Daily leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
