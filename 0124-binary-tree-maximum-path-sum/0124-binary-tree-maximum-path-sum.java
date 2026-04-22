@@ -14,11 +14,10 @@
  * }
  */
 class Solution {
-
-    int globalMax=Integer.MIN_VALUE;
+    private int ans=Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
         helper(root);
-        return globalMax;
+        return ans;
     }
 
     private int helper(TreeNode root){
@@ -26,14 +25,10 @@ class Solution {
             return 0;
         }
 
-        int left=helper(root.left);
-        int right=helper(root.right);
-
-        left=Math.max(0,left);
-        right=Math.max(0,right);
-
-        int pathsum=left+right+root.val;
-        globalMax= Math.max(pathsum,globalMax);
+        int left=Math.max(0,helper(root.left));
+        int right=Math.max(0,helper(root.right));
+        int currentsum=left+right+root.val;
+        ans=Math.max(currentsum,ans);
 
         return Math.max(left,right)+root.val;
     }
