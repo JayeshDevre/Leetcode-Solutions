@@ -101,6 +101,7 @@ Daily leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Breadth-First Search
@@ -114,6 +115,7 @@ Daily leetcode solutions
 | [0207-course-schedule](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Binary Tree
@@ -128,6 +130,7 @@ Daily leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Math
@@ -265,6 +268,7 @@ Daily leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
