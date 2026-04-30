@@ -26,9 +26,7 @@ class Solution {
         if(root==null){
             return null;
         }
-
         Node leftMost=root;
-
         while(leftMost.left!=null){
             Node current=leftMost;
             while(current!=null){
