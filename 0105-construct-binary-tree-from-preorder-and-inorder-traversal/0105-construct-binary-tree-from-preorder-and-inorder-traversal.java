@@ -16,25 +16,29 @@
 class Solution {
     int index=0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-
+        // preorder = [3,9,20,15,7], inorder = [9,3,15,20,7]
+        Map<Integer, Integer> map= new HashMap<>();
+        // 9:0
+        // 3:1
+        // 15:2
+        // 20:3
+        // 7:4
         for(int i=0;i<inorder.length;i++){
             map.put(inorder[i],i);
         }
-        return helper(preorder,0,inorder.length-1,map);
+        return splitTree(preorder, 0,inorder.length-1,map);
     }
 
-    private TreeNode helper(int [] preorder,int start,int end,HashMap<Integer,Integer> map){
+    private TreeNode splitTree(int [] preorder, int start, int end, Map<Integer, Integer> map){
         if(start>end){
             return null;
         }
 
-        int rootval=preorder[index++];
-        TreeNode root=new TreeNode(rootval);
-        int inorderIndex=map.get(rootval);
-
-        root.left=helper(preorder,start,inorderIndex-1,map);
-        root.right=helper(preorder,inorderIndex+1,end,map);
+        int rootindex=preorder[index++];
+        TreeNode root= new TreeNode(rootindex);
+        int mid=map.get(rootindex);
+        root.left=splitTree(preorder,start,mid-1,map);
+        root.right=splitTree(preorder,mid+1,end,map);
         return root;
     }
 }
