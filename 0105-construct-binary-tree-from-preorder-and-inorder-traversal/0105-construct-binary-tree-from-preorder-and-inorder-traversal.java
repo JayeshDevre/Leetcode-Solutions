@@ -16,13 +16,7 @@
 class Solution {
     int index=0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        // preorder = [3,9,20,15,7], inorder = [9,3,15,20,7]
         Map<Integer, Integer> map= new HashMap<>();
-        // 9:0
-        // 3:1
-        // 15:2
-        // 20:3
-        // 7:4
         for(int i=0;i<inorder.length;i++){
             map.put(inorder[i],i);
         }
