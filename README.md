@@ -14,6 +14,7 @@ Daily leetcode solutions
 | [0076-minimum-window-substring](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0097-interleaving-string](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -89,6 +90,7 @@ Daily leetcode solutions
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ Daily leetcode solutions
 | [0199-binary-tree-right-side-view](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -128,6 +131,7 @@ Daily leetcode solutions
 | [0207-course-schedule](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -149,6 +153,7 @@ Daily leetcode solutions
 | [0199-binary-tree-right-side-view](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -293,6 +298,7 @@ Daily leetcode solutions
 | [0210-course-schedule-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
