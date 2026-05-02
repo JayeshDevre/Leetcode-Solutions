@@ -14,26 +14,24 @@ public class Codec {
         if(root==null){
             return "null";
         }
-        // preorder
-        return root.val+","+serialize(root.left)+","+serialize(root.right);
-    }
+        return root.val +","+serialize(root.left)+","+serialize(root.right);
+    } 
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        Queue<String> nodes=new LinkedList<>(Arrays.asList(data.split(",")));
-        return buildTree(nodes);
+        Queue<String> queue= new LinkedList<>(Arrays.asList(data.split(",")));
+        return buildTree(queue);
     }
 
-    private TreeNode buildTree(Queue<String> nodes){
-        String val=nodes.poll();
-
-        if(val.equals("null")){
+    private TreeNode buildTree(Queue<String> queue){
+        String ele= queue.poll();
+        if(ele.equals("null")){
             return null;
         }
-        TreeNode root=new TreeNode(Integer.parseInt(val));
-        root.left=buildTree(nodes);
-        root.right=buildTree(nodes);
 
+        TreeNode root=new TreeNode(Integer.parseInt(ele));
+        root.left=buildTree(queue);
+        root.right=buildTree(queue);
         return root;
     }
 }
