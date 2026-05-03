@@ -14,8 +14,8 @@ public class Codec {
         if(root==null){
             return "null";
         }
-        return root.val +","+serialize(root.left)+","+serialize(root.right);
-    } 
+        return root.val+","+serialize(root.left)+","+serialize(root.right);
+    }
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
@@ -24,12 +24,11 @@ public class Codec {
     }
 
     private TreeNode buildTree(Queue<String> queue){
-        String ele= queue.poll();
-        if(ele.equals("null")){
+        String node=queue.poll();
+        if(node.equals("null")){
             return null;
         }
-
-        TreeNode root=new TreeNode(Integer.parseInt(ele));
+        TreeNode root= new TreeNode(Integer.parseInt(node));
         root.left=buildTree(queue);
         root.right=buildTree(queue);
         return root;
