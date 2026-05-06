@@ -116,6 +116,7 @@ Daily leetcode solutions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Breadth-First Search
@@ -158,6 +159,7 @@ Daily leetcode solutions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Math
@@ -406,4 +408,5 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
