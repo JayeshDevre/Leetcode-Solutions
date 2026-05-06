@@ -18,26 +18,26 @@ class Solution {
         if(root==null){
             return new TreeNode(val);
         }
-        TreeNode curr=root;
+
+        TreeNode current=root;
+
         while(true){
-            if(curr.val>val){
-                if(curr.left!=null){
-                    curr=curr.left;
+            if(current.val>val){
+                if(current.left!=null){
+                    current=current.left;
                 }else{
-                    curr.left=new TreeNode(val);
+                    current.left=new TreeNode(val);
                     break;
                 }
             }else{
-                if(curr.right!=null){
-                    curr=curr.right;
+                if(current.right!=null){
+                    current=current.right;
                 }else{
-                    curr.right=new TreeNode(val);
+                    current.right=new TreeNode(val);
                     break;
                 }
             }
         }
-
         return root;
-
     }
 }
