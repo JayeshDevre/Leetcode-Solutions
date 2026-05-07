@@ -18,31 +18,31 @@ class Solution {
         if(root==null){
             return null;
         }
-        
-        if(root.val>key){
-            root.left=deleteNode(root.left,key);
-        }else if(root.val<key){
+
+        if(root.val<key){
             root.right=deleteNode(root.right,key);
+        }else if(root.val>key){
+            root.left=deleteNode(root.left,key);
         }else{
             if(root.left==null){
                 return root.right;
             }
-
             if(root.right==null){
                 return root.left;
             }
 
-        TreeNode successor=findMin(root.right);
-        root.val=successor.val;
-        root.right=deleteNode(root.right,successor.val);
+            TreeNode temp=findNextMax(root.right);
+            root.val=temp.val;
+            root.right= deleteNode(root.right,temp.val);
+
         }
         return root;
     }
 
-    private TreeNode findMin(TreeNode root){
-        while(root.left!=null){
-            root=root.left;
+    private TreeNode findNextMax(TreeNode node){
+        while(node.left!=null){
+            node=node.left;
         }
-        return root;
+        return node;
     }
 }
