@@ -114,6 +114,7 @@ Daily leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -161,6 +162,7 @@ Daily leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -313,6 +315,7 @@ Daily leetcode solutions
 | [0207-course-schedule](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -420,6 +423,7 @@ Daily leetcode solutions
 | [0098-validate-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
