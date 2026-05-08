@@ -13,7 +13,7 @@ class Solution {
         if(root==null){
             return null;
         }
-        
+
         while(root!=null){
             if(p.val<root.val && q.val<root.val){
                 root=root.left;
@@ -23,6 +23,7 @@ class Solution {
                 return root;
             }
         }
+
         return null;
     }
 }
