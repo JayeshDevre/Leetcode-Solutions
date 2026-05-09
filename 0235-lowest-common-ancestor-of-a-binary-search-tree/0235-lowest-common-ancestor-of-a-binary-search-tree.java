@@ -13,11 +13,10 @@ class Solution {
         if(root==null){
             return null;
         }
-
         while(root!=null){
-            if(p.val<root.val && q.val<root.val){
+            if(root.val>p.val && root.val>q.val){
                 root=root.left;
-            }else if(p.val>root.val && q.val>root.val){
+            }else if(root.val<p.val && root.val<q.val){
                 root=root.right;
             }else{
                 return root;
