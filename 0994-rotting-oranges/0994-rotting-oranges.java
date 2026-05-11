@@ -1,46 +1,49 @@
 class Solution {
+    int [][] directions= new int[][]{{-1,0},{0,-1},{1,0},{0,1}};
     public int orangesRotting(int[][] grid) {
-        if(grid==null || grid.length==0){
-            return -1;
+        int ans=0;
+
+        int m=grid.length;
+        int n=grid[0].length;
+
+        int arr[][] = new int[m][n];
+
+        for(int [] a:arr){
+            Arrays.fill(a,Integer.MAX_VALUE);
         }
 
-        int row=grid.length;
-        int col=grid[0].length;
-        int time[][]=new int[row][col];
-// create and fill the duplicate array with max value
-        for(int i=0;i<row;i++){
-            Arrays.fill(time[i],Integer.MAX_VALUE);
-        }
-// pass to dfs if you find value 2
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
                 if(grid[i][j]==2){
-                    dfs(grid,time,i,j,0);
+                    dfs(i,j,grid,arr,0);
                 }
             }
         }
-        int days=0;
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
+
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
                 if(grid[i][j]==1){
-                if(time[i][j]==Integer.MAX_VALUE){
-                    return -1;
-                }
-                days=Math.max(time[i][j],days);
+                    if(arr[i][j]==Integer.MAX_VALUE){
+                        return -1;
+                    }
+
+                    ans=Math.max(ans, arr[i][j]);
                 }
             }
         }
-        return days;
+        return ans;
     }
 
-    private void dfs(int grid[][], int time[][], int i, int j, int currentTime){
-        if(i<0 || i>=grid.length || j<0 || j>=grid[0].length || grid[i][j]==0 || currentTime>=time[i][j]){
+    private void dfs(int i, int j, int[][] grid, int [][] ans, int ct){
+        if(i<0 || i>=grid.length || j<0 || j>=grid[0].length || grid[i][j]==0 || ct>=ans[i][j]){
             return;
         }
-        time[i][j]=currentTime;
-        dfs(grid,time,i+1,j,currentTime+1);
-        dfs(grid,time,i-1,j,currentTime+1);
-        dfs(grid,time,i,j+1,currentTime+1);
-        dfs(grid,time,i,j-1,currentTime+1);
+
+        ans[i][j]=ct;
+        for(int [] dir:directions){
+            int i_=i+dir[0];
+            int j_=j+dir[1];
+            dfs(i_,j_,grid,ans,ct+1);
+        }
     }
 }
