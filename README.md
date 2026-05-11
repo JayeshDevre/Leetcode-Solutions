@@ -146,6 +146,7 @@ Daily leetcode solutions
 | [0542-01-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0994-rotting-oranges](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -227,6 +228,7 @@ Daily leetcode solutions
 | [0739-daily-temperatures](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0846-hand-of-straights](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0860-lemonade-change/) | Easy |
+| [0994-rotting-oranges](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -360,6 +362,7 @@ Daily leetcode solutions
 | [0073-set-matrix-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0542-01-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
+| [0994-rotting-oranges](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Two Pointers
