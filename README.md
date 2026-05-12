@@ -138,6 +138,7 @@ Daily leetcode solutions
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0133-clone-graph](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -212,6 +213,7 @@ Daily leetcode solutions
 | [0134-gas-station](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0200-number-of-islands](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0283-move-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -324,6 +326,7 @@ Daily leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0133-clone-graph](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -365,6 +368,7 @@ Daily leetcode solutions
 | [0054-spiral-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0200-number-of-islands](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0542-01-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -445,4 +449,8 @@ Daily leetcode solutions
 | [0450-delete-node-in-a-bst](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
