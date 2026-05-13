@@ -147,6 +147,7 @@ Daily leetcode solutions
 | [0542-01-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0542-01-matrix/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -310,6 +311,7 @@ Daily leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +339,7 @@ Daily leetcode solutions
 | [0543-diameter-of-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
@@ -347,6 +350,7 @@ Daily leetcode solutions
 | [0207-course-schedule](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0797-all-paths-from-source-to-target](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/JayeshDevre/Leetcode-Solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
